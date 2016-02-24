@@ -1,7 +1,7 @@
 <h1>Twitch Moderation Bot</h1>
 
 Simple moderation bot for Twitch.tv channels. Still early days, so not a lot of features yet, and probably a lot of bugs. Code is also messy, and not documented yet.
-<br>
+<br/><br/>
 Some of the features so far:
 <ul>
 <li>Simple spam protection, including ascii, emotes, all caps and urls.</li>
@@ -10,4 +10,4 @@ Some of the features so far:
 <li>Custom ban phrases</li>
 </ul>
 
-Features have configurable access levels, subs are immune to spam protection, or only subs or up can use features.
+Features have configurable access levels, X are immune to spam protection, or only X or up can use features. Current levels are broadcaster, moderators, subscribers or everyone.
